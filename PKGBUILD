@@ -14,8 +14,8 @@ source=('git+http://github.com/mvl-at/barrel.git'
         'barrel.service' 
         'barrel.sysusers')
 sha256sums=('SKIP'
-            'SKIP'
-            'SKIP')
+            '042b1ff348dfdd705d1dfe9bfb68011e2f039509cb7991526c5da5111c772fc9'
+            '668449908de123446e539b2caefe12486af14b906cffb1bd0799eaecabca11c0')
 
 backup=('etc/barrel/barrel.yml')
 
